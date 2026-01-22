@@ -2,10 +2,15 @@ A simple and user-friendly To-Do List Application that helps users manage daily 
 
 🚀 Features
   ➕ Add new tasks
+
   ✏️ Edit existing tasks
+  
   🗑️ Delete tasks
+  
   ☑️ Mark tasks as completed using checkboxes
+  
   🧹 Simple, clean, and responsive UI
+  
   ⚡ Fast and lightweight
 
 🖥️ Tech Stack
